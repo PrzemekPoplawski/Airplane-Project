@@ -47,7 +47,6 @@
                 </Style>
             </DataGrid.RowStyle>
             <DataGrid.Columns>
-             
             </DataGrid.Columns>
 
         </DataGrid>
